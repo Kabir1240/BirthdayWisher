@@ -7,5 +7,5 @@
 -> You can add more templates, but you would have to modify the source code. Just increase NUMBER_OF_TEMPLATES to the new amount. You can also edit existing templates.  
 
   # Bugs  
--> The only problem is, you can only use this program if your email is an @gmail.com account (receiver email doesn't matter). Because it connects to the gmail server by default. Sadly, you can only fix this by modifying the source code.  
+-> You can only use this program if your email is an @gmail.com account (receiver email doesn't matter). Because it connects to the gmail server by default. Sadly, you can only fix this by modifying the source code.  
 -> Sometimes your ISP may block the connection. You might have to try changing the port numbers in the source code. You could also try using a VPN, hotspot or another ISP.  
