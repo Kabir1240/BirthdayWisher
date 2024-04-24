@@ -182,8 +182,9 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 new_git.bat
-data/to_learn.csv
+data/user_account.json
 icon.ico
+quotes.txt
 
 # idea folder, uncomment if you don't need it
 # .idea
